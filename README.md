@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yvan-ngoahitsi&label=Profile%20views&color=0e75b6&style=flat" alt="yvan-ngoahitsi" /> </p>
 
-- 🔭 I’m currently working on **Dolibarr ERP/CRM**
+- 🔭 I’m currently working on **personal project**
 
-- 🌱 I’m currently learning **Cloud computing**
+- 🌱 I’m currently learning **Software development & Cloud computing**
 
 - 📫 How to reach me **ngoahitsyvaan@gmail.com**
 
