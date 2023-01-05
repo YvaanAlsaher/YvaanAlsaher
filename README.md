@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yvan-ngoahitsi&label=Profile%20views&color=0e75b6&style=flat" alt="yvan-ngoahitsi" /> </p>
 
-- 🔭 I’m currently working on **personal project**
+- 🔭 I’m currently working at **<a href="https://www.developpeur-informatique.ma/" target="blank">Developpeur-informatique.ma</a>**
 
 - 🌱 I’m currently learning **Software development & Cloud computing**
 
