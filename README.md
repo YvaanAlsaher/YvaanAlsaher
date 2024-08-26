@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yvan-ngoahitsi&label=Profile%20views&color=0e75b6&style=flat" alt="yvan-ngoahitsi" /> </p>
 
-- 🔭 I’m currently working at **<a href="https://www.developpeur-informatique.ma/" target="blank">Developpeur-informatique.ma</a>**
+- 🔭 I’m currently working at **<a href="https://economie.gouv.ga/" target="blank">MEP GOV DEP</a>**
 
 - 🌱 I’m currently learning **Software development & Cloud computing**
 
 - 📫 How to reach me **ngoahitsyvaan@gmail.com**
 
-- ⚡ Hobbies **Photography, Cooking & Movies**
+- ⚡ Hobbies **Photography, Cooking & Travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
